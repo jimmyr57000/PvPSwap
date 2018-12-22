@@ -1,0 +1,7 @@
+name: PvPSwap
+author: jimmyr57000
+version: 1.0.1
+main: fr.jrich.pvpswap.PvPSwapPlugin
+commands:
+  pvpswap:
+    permission: pvpswap.admin
